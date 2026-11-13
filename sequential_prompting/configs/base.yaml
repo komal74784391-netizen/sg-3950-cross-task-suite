@@ -1,0 +1,8 @@
+seed: 31
+chaining:
+  max_steps: 6
+  stop_score: 0.92
+  beam_width: 4
+scorer:
+  hidden_size: 256
+  dropout: 0.1
